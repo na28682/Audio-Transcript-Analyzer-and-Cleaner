@@ -1,3 +1,5 @@
+**THIS PROJECT NEEDS AN UPDATED READ ME AND AN UPDATED TEST AND MODIFICATION TO ENSURE THE PROJECT WORKS PROPERLY.**
+
 # Audio Transcript Analyzer and Cleaner
 
 A comprehensive audio transcription tool that combines WhisperX for high-quality transcription, speaker diarization for identifying speakers, and intelligent text cleaning to produce readable, professional transcripts.
